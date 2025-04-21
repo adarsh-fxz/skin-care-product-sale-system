@@ -1,0 +1,16 @@
+=== WeCare Skin Care - Sale Invoice ===
+
+Date: 2025-04-20 12:24:52
+Customer: Adarsh
+
+Items Purchased:
+-------------------------------------------------------------------------------------
+ID    Product              Brand           Qty      Free     Price(Rs)    Total(Rs)   
+-------------------------------------------------------------------------------------
+1     Vitamin C Serum      Garnier         3        1        3000.00      9000.00     
+2     Skin Cleanser        Cetaphil        7        2        840.00       5880.00     
+3     Sunscreen            Aqualogica      2        0        2100.00      4200.00     
+-------------------------------------------------------------------------------------
+Total Amount: Rs. 19080.00
+
+Thank you for shopping with WeCare!

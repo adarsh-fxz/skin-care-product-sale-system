@@ -1,0 +1,4 @@
+1, Vitamin C Serum, Garnier, 200, 1000.0, France
+2, Skin Cleanser, Cetaphil, 91, 280.0, Switzerland
+3, Sunscreen, Aqualogica, 198, 700.0, India
+4, Body Lotion, Mama Earth, 100, 200.0, India
